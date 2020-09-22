@@ -15,3 +15,4 @@ chart.append(series_obj)
 
 ws.add_chart(chart,'C1')
 wb.save('sample_chart_109p.xlsx')
+#Gitのための試験
